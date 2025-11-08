@@ -3,6 +3,9 @@
 A beginner-friendly **Full Stack (React + Node.js)** web app that summarizes long text into shorter, more readable sentences.  
 Built to demonstrate **Full Stack + AI Integration** skills for internship and working student opportunities.
 
+## 📸 Project Preview
+![App Preview](preview.png)
+
 ---
 
 ## 🚀 Features
