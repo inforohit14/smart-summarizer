@@ -1,1 +1,1 @@
-"C:\Users\Rohit Mogal\Desktop\smart-summarizer\preview.png"
+![App Preview](./preview.png)
