@@ -1,2 +1,1 @@
-## 📸 Project Preview
-![App Preview](preview.png)
+"C:\Users\Rohit Mogal\Desktop\smart-summarizer\preview.png"
